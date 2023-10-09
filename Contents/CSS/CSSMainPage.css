@@ -1,0 +1,20 @@
+﻿@font-face {
+    font-family: MySanReg;
+    src: url(../Fonts/IRANSANS_LIGHT.TTF) format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: MySanBold;
+    src: url(../Fonts/IRANSANS_BOLD.TTF) format('truetype');
+    font-weight: bolder;
+}
+
+body {
+    background-color: sandybrown;
+    margin: auto;
+    margin-top: 100px;
+    font-family: MySanBold;
+    text-align:center;
+    
+}
